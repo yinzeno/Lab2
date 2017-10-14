@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.sql.Connection;
 
-public class DBConnection  //连接
+public class DBConnection  //连接函数
 {  
     private String dbDriver="com.mysql.jdbc.Driver";   
     private String dbUrl="jdbc:mysql://localhost:3306/test?characterEncoding=utf8";//根据实际情况变化  
