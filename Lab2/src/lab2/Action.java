@@ -8,7 +8,7 @@ import javax.servlet.ServletRequest;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import org.apache.struts2.ServletActionContext;
-public class Action {
+public class Action {//lei
     private Pattern p = Pattern.compile("\\?");
     /*private String sql1="insert into author(authorid,name,age,country) values(?,?,?,?)"; 
     private String sql2="insert into book(isbn,title,authorid,publisher,publishdate,price) values(?,?,?,?,?,?)";
